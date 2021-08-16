@@ -1,0 +1,25 @@
+.Coinflip-middle button{
+	font-size: 1.7rem;
+	color: white;
+	border: 0px;
+	border-radius: 5px;
+	padding: 10px;
+	margin: 10px;
+}
+
+.Coinflip-middle button:hover{
+	background-color: black;
+}
+
+.active{
+	background-color: lightcoral;
+}
+
+.disabled{
+	background-color: slateblue;
+}
+
+.details h4{
+	padding: 2px;
+	margin: 2px;
+}
